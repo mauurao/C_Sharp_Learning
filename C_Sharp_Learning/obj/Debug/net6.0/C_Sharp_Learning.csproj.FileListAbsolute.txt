@@ -1,0 +1,15 @@
+/Users/mauurao/Projects/C_Sharp_Learning/C_Sharp_Learning/bin/Debug/net6.0/C_Sharp_Learning
+/Users/mauurao/Projects/C_Sharp_Learning/C_Sharp_Learning/bin/Debug/net6.0/C_Sharp_Learning.deps.json
+/Users/mauurao/Projects/C_Sharp_Learning/C_Sharp_Learning/bin/Debug/net6.0/C_Sharp_Learning.runtimeconfig.json
+/Users/mauurao/Projects/C_Sharp_Learning/C_Sharp_Learning/bin/Debug/net6.0/C_Sharp_Learning.dll
+/Users/mauurao/Projects/C_Sharp_Learning/C_Sharp_Learning/bin/Debug/net6.0/C_Sharp_Learning.pdb
+/Users/mauurao/Projects/C_Sharp_Learning/C_Sharp_Learning/obj/Debug/net6.0/C_Sharp_Learning.csproj.AssemblyReference.cache
+/Users/mauurao/Projects/C_Sharp_Learning/C_Sharp_Learning/obj/Debug/net6.0/C_Sharp_Learning.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mauurao/Projects/C_Sharp_Learning/C_Sharp_Learning/obj/Debug/net6.0/C_Sharp_Learning.AssemblyInfoInputs.cache
+/Users/mauurao/Projects/C_Sharp_Learning/C_Sharp_Learning/obj/Debug/net6.0/C_Sharp_Learning.AssemblyInfo.cs
+/Users/mauurao/Projects/C_Sharp_Learning/C_Sharp_Learning/obj/Debug/net6.0/C_Sharp_Learning.csproj.CoreCompileInputs.cache
+/Users/mauurao/Projects/C_Sharp_Learning/C_Sharp_Learning/obj/Debug/net6.0/C_Sharp_Learning.dll
+/Users/mauurao/Projects/C_Sharp_Learning/C_Sharp_Learning/obj/Debug/net6.0/refint/C_Sharp_Learning.dll
+/Users/mauurao/Projects/C_Sharp_Learning/C_Sharp_Learning/obj/Debug/net6.0/C_Sharp_Learning.pdb
+/Users/mauurao/Projects/C_Sharp_Learning/C_Sharp_Learning/obj/Debug/net6.0/C_Sharp_Learning.genruntimeconfig.cache
+/Users/mauurao/Projects/C_Sharp_Learning/C_Sharp_Learning/obj/Debug/net6.0/ref/C_Sharp_Learning.dll
