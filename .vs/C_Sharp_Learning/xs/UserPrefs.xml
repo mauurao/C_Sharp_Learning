@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{5282D3FD-8724-468D-A2C3-6145CE252679}|Default">
+  <MonoDevelop.Ide.ItemProperties.GreatestNumber PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="C_Sharp_Learning" expanded="True">
+            <Node name="HelloWorld" expanded="True" />
+            <Node name="novo" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Sum PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.WriteLine PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.Repetition FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Welcome PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mauurao/Projects/C_Sharp_Learning/C_Sharp_Learning/C_Sharp_Learning.csproj",
-      "projectName": "C_Sharp_Learning",
-      "projectPath": "/Users/mauurao/Projects/C_Sharp_Learning/C_Sharp_Learning/C_Sharp_Learning.csproj",
+      "projectUniqueName": "/Users/mauurao/Desktop/Projetos/GIT/C_Sharp_Learning/C_Sharp_Learning/Welcome.csproj",
+      "projectName": "HelloWorld",
+      "projectPath": "/Users/mauurao/Desktop/Projetos/GIT/C_Sharp_Learning/C_Sharp_Learning/Welcome.csproj",
       "packagesPath": "/Users/mauurao/.nuget/packages/",
-      "outputPath": "/Users/mauurao/Projects/C_Sharp_Learning/C_Sharp_Learning/obj/",
+      "outputPath": "/Users/mauurao/Desktop/Projetos/GIT/C_Sharp_Learning/C_Sharp_Learning/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mauurao/.nuget/NuGet/NuGet.Config"
@@ -49,7 +49,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -58,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
       }
     }
   }

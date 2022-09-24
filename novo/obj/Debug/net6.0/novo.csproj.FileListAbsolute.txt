@@ -1,0 +1,15 @@
+/Users/mauurao/Desktop/Projetos/GIT/C_Sharp_Learning/novo/bin/Debug/net6.0/novo
+/Users/mauurao/Desktop/Projetos/GIT/C_Sharp_Learning/novo/bin/Debug/net6.0/novo.deps.json
+/Users/mauurao/Desktop/Projetos/GIT/C_Sharp_Learning/novo/bin/Debug/net6.0/novo.runtimeconfig.json
+/Users/mauurao/Desktop/Projetos/GIT/C_Sharp_Learning/novo/bin/Debug/net6.0/novo.dll
+/Users/mauurao/Desktop/Projetos/GIT/C_Sharp_Learning/novo/bin/Debug/net6.0/novo.pdb
+/Users/mauurao/Desktop/Projetos/GIT/C_Sharp_Learning/novo/obj/Debug/net6.0/novo.csproj.AssemblyReference.cache
+/Users/mauurao/Desktop/Projetos/GIT/C_Sharp_Learning/novo/obj/Debug/net6.0/novo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mauurao/Desktop/Projetos/GIT/C_Sharp_Learning/novo/obj/Debug/net6.0/novo.AssemblyInfoInputs.cache
+/Users/mauurao/Desktop/Projetos/GIT/C_Sharp_Learning/novo/obj/Debug/net6.0/novo.AssemblyInfo.cs
+/Users/mauurao/Desktop/Projetos/GIT/C_Sharp_Learning/novo/obj/Debug/net6.0/novo.csproj.CoreCompileInputs.cache
+/Users/mauurao/Desktop/Projetos/GIT/C_Sharp_Learning/novo/obj/Debug/net6.0/novo.dll
+/Users/mauurao/Desktop/Projetos/GIT/C_Sharp_Learning/novo/obj/Debug/net6.0/refint/novo.dll
+/Users/mauurao/Desktop/Projetos/GIT/C_Sharp_Learning/novo/obj/Debug/net6.0/novo.pdb
+/Users/mauurao/Desktop/Projetos/GIT/C_Sharp_Learning/novo/obj/Debug/net6.0/novo.genruntimeconfig.cache
+/Users/mauurao/Desktop/Projetos/GIT/C_Sharp_Learning/novo/obj/Debug/net6.0/ref/novo.dll

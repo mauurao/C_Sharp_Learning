@@ -1,0 +1,15 @@
+/Users/mauurao/Desktop/Projetos/GIT/C_Sharp_Learning/sum/bin/Debug/net6.0/sum
+/Users/mauurao/Desktop/Projetos/GIT/C_Sharp_Learning/sum/bin/Debug/net6.0/sum.deps.json
+/Users/mauurao/Desktop/Projetos/GIT/C_Sharp_Learning/sum/bin/Debug/net6.0/sum.runtimeconfig.json
+/Users/mauurao/Desktop/Projetos/GIT/C_Sharp_Learning/sum/bin/Debug/net6.0/sum.dll
+/Users/mauurao/Desktop/Projetos/GIT/C_Sharp_Learning/sum/bin/Debug/net6.0/sum.pdb
+/Users/mauurao/Desktop/Projetos/GIT/C_Sharp_Learning/sum/obj/Debug/net6.0/sum.csproj.AssemblyReference.cache
+/Users/mauurao/Desktop/Projetos/GIT/C_Sharp_Learning/sum/obj/Debug/net6.0/sum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mauurao/Desktop/Projetos/GIT/C_Sharp_Learning/sum/obj/Debug/net6.0/sum.AssemblyInfoInputs.cache
+/Users/mauurao/Desktop/Projetos/GIT/C_Sharp_Learning/sum/obj/Debug/net6.0/sum.AssemblyInfo.cs
+/Users/mauurao/Desktop/Projetos/GIT/C_Sharp_Learning/sum/obj/Debug/net6.0/sum.csproj.CoreCompileInputs.cache
+/Users/mauurao/Desktop/Projetos/GIT/C_Sharp_Learning/sum/obj/Debug/net6.0/sum.dll
+/Users/mauurao/Desktop/Projetos/GIT/C_Sharp_Learning/sum/obj/Debug/net6.0/refint/sum.dll
+/Users/mauurao/Desktop/Projetos/GIT/C_Sharp_Learning/sum/obj/Debug/net6.0/sum.pdb
+/Users/mauurao/Desktop/Projetos/GIT/C_Sharp_Learning/sum/obj/Debug/net6.0/sum.genruntimeconfig.cache
+/Users/mauurao/Desktop/Projetos/GIT/C_Sharp_Learning/sum/obj/Debug/net6.0/ref/sum.dll

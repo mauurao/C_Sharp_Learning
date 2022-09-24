@@ -1,0 +1,15 @@
+/Users/mauurao/Desktop/Projetos/GIT/C_Sharp_Learning/GreatestNumber/bin/Debug/net6.0/GreatestNumber
+/Users/mauurao/Desktop/Projetos/GIT/C_Sharp_Learning/GreatestNumber/bin/Debug/net6.0/GreatestNumber.deps.json
+/Users/mauurao/Desktop/Projetos/GIT/C_Sharp_Learning/GreatestNumber/bin/Debug/net6.0/GreatestNumber.runtimeconfig.json
+/Users/mauurao/Desktop/Projetos/GIT/C_Sharp_Learning/GreatestNumber/bin/Debug/net6.0/GreatestNumber.dll
+/Users/mauurao/Desktop/Projetos/GIT/C_Sharp_Learning/GreatestNumber/bin/Debug/net6.0/GreatestNumber.pdb
+/Users/mauurao/Desktop/Projetos/GIT/C_Sharp_Learning/GreatestNumber/obj/Debug/net6.0/GreatestNumber.csproj.AssemblyReference.cache
+/Users/mauurao/Desktop/Projetos/GIT/C_Sharp_Learning/GreatestNumber/obj/Debug/net6.0/GreatestNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mauurao/Desktop/Projetos/GIT/C_Sharp_Learning/GreatestNumber/obj/Debug/net6.0/GreatestNumber.AssemblyInfoInputs.cache
+/Users/mauurao/Desktop/Projetos/GIT/C_Sharp_Learning/GreatestNumber/obj/Debug/net6.0/GreatestNumber.AssemblyInfo.cs
+/Users/mauurao/Desktop/Projetos/GIT/C_Sharp_Learning/GreatestNumber/obj/Debug/net6.0/GreatestNumber.csproj.CoreCompileInputs.cache
+/Users/mauurao/Desktop/Projetos/GIT/C_Sharp_Learning/GreatestNumber/obj/Debug/net6.0/GreatestNumber.dll
+/Users/mauurao/Desktop/Projetos/GIT/C_Sharp_Learning/GreatestNumber/obj/Debug/net6.0/refint/GreatestNumber.dll
+/Users/mauurao/Desktop/Projetos/GIT/C_Sharp_Learning/GreatestNumber/obj/Debug/net6.0/GreatestNumber.pdb
+/Users/mauurao/Desktop/Projetos/GIT/C_Sharp_Learning/GreatestNumber/obj/Debug/net6.0/GreatestNumber.genruntimeconfig.cache
+/Users/mauurao/Desktop/Projetos/GIT/C_Sharp_Learning/GreatestNumber/obj/Debug/net6.0/ref/GreatestNumber.dll

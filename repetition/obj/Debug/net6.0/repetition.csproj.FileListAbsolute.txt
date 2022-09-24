@@ -1,0 +1,15 @@
+/Users/mauurao/Desktop/Projetos/GIT/C_Sharp_Learning/repetition/bin/Debug/net6.0/repetition
+/Users/mauurao/Desktop/Projetos/GIT/C_Sharp_Learning/repetition/bin/Debug/net6.0/repetition.deps.json
+/Users/mauurao/Desktop/Projetos/GIT/C_Sharp_Learning/repetition/bin/Debug/net6.0/repetition.runtimeconfig.json
+/Users/mauurao/Desktop/Projetos/GIT/C_Sharp_Learning/repetition/bin/Debug/net6.0/repetition.dll
+/Users/mauurao/Desktop/Projetos/GIT/C_Sharp_Learning/repetition/bin/Debug/net6.0/repetition.pdb
+/Users/mauurao/Desktop/Projetos/GIT/C_Sharp_Learning/repetition/obj/Debug/net6.0/repetition.csproj.AssemblyReference.cache
+/Users/mauurao/Desktop/Projetos/GIT/C_Sharp_Learning/repetition/obj/Debug/net6.0/repetition.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mauurao/Desktop/Projetos/GIT/C_Sharp_Learning/repetition/obj/Debug/net6.0/repetition.AssemblyInfoInputs.cache
+/Users/mauurao/Desktop/Projetos/GIT/C_Sharp_Learning/repetition/obj/Debug/net6.0/repetition.AssemblyInfo.cs
+/Users/mauurao/Desktop/Projetos/GIT/C_Sharp_Learning/repetition/obj/Debug/net6.0/repetition.csproj.CoreCompileInputs.cache
+/Users/mauurao/Desktop/Projetos/GIT/C_Sharp_Learning/repetition/obj/Debug/net6.0/repetition.dll
+/Users/mauurao/Desktop/Projetos/GIT/C_Sharp_Learning/repetition/obj/Debug/net6.0/refint/repetition.dll
+/Users/mauurao/Desktop/Projetos/GIT/C_Sharp_Learning/repetition/obj/Debug/net6.0/repetition.pdb
+/Users/mauurao/Desktop/Projetos/GIT/C_Sharp_Learning/repetition/obj/Debug/net6.0/repetition.genruntimeconfig.cache
+/Users/mauurao/Desktop/Projetos/GIT/C_Sharp_Learning/repetition/obj/Debug/net6.0/ref/repetition.dll
